@@ -19,9 +19,9 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-		$scope.Grupo_ID ="DIU1.ABCDEF";
+		$scope.Grupo_ID ="DIU2.Plata";
         $scope.Curso ="2019/20";
-        $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
+        $scope.Github_ID ="https://github.com/Superkorlas/DIU_Practicas";
         
 		$scope.JourneyIndex = 0;
         
@@ -34,8 +34,8 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Pedro",
-                Photo: "man.png",
+				Name: "Elena",
+                Photo: "woman.png",
     
                 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
@@ -92,7 +92,7 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
+				Name: "Teresa",
                 Photo: "woman.png",
                 
 				 /*** PASO #1: INSPIRACION ***/ 

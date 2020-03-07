@@ -19,7 +19,7 @@ angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
         $scope.Grupo_ID ="DIU2.Plata";
         $scope.Curso ="2019/20";
-		$scope.Github_ID ="https://github.com/Superkorlas/DIU_Practicas/tree/master/P1/Personas";
+		$scope.Github_ID ="https://github.com/Superkorlas/DIU_Practicas";
         
 		$scope.PersonaIndex = 0;
 		$scope.Personas = [
