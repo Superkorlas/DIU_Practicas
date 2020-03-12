@@ -38,51 +38,51 @@ angular.module("angular", [])
                 Photo: "woman.png",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
-                feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
+                goal1: "Le han destinado a trabajar en una escuela de Málaga",
+                touch1: "Internet",
+                feel1: "5",
+                con1: "Debe encontrar un piso donde alojarse con poca antelación.",
+                ima1: "cartoon-PCSurprised.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "Movil",
+                goal2: "Buscar en internet un estudio individual para alojarse.",
+                touch2: "Internet",
                 feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
+                con2: "Todos los estudios individuales están demasiado caros.",
                 ima2: "cartoon-PCangry.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
-                feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
+                goal3: "Decide que debe compartir piso con alguien para poder permitirse el alojamiento sin gastar demasiado.",
+                touch3: "móvil (para buscar app)",
+                feel3: "2",
+                con3: "Ve que hay demasiadas apps para ello.",
                 ima3: "cartoon-phone.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
+                goal4: "Sus amigas le recomiendan una app.",
                 touch4: "ordenador",
                 feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCtyping.png",
+                con4: "Hay demasiadas ofertas de gente y le preocupa si se llevará bien con su compañera de piso",
+                ima4: "cartoon-speaking.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                goal5: "La app le permite aplicar varios filtros que le permiten buscar algo mejor.",
+                touch5: "móvil (app)",
+                feel5: "3",
+                con5: "La app no permite filtrar con respecto a los inquilinos y eso le preocupa.",
+                ima5: "cartoon-deciding.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
+                goal6: "Finalmente encuentra un piso que le gusta y dado que aparece el nombre de la inquilina, ha podido buscarlo en las redes sociales y parece una persona agradable.",
                 touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
-                ima6: "cartoon-resting.png",
+                feel6: "4",
+                con6: "Le preocupa un poco no caerle bien a la inquilina cuando se conozcan.",
+                ima6: "cartoon-happy.png",
                 
 			},
 			{	
