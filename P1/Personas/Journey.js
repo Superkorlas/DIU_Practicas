@@ -39,7 +39,7 @@ angular.module("angular", [])
     
                 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Le han destinado a trabajar en una escuela de Málaga",
-                touch1: "Internet",
+                touch1: "Internet (para ver nuevo destino)",
                 feel1: "5",
                 con1: "Debe encontrar un piso donde alojarse con poca antelación.",
                 ima1: "cartoon-PCSurprised.png",
@@ -62,7 +62,7 @@ angular.module("angular", [])
                 /*** PASO #4: OBSERVA ***/ 
                 
                 goal4: "Ve que hay muchas ofertas disponibles y varias bastante interesantes, por lo que decide comparar las que más le interesan.",
-                touch4: "ordenador",
+                touch4: "móvil",
                 feel4: "1",
                 con4: "Le resulta muy incómodo comparar ofertas ya que no hay ninguna forma de añadir a favoritos para guardar aquellas que más le gustan.",
                 ima4: "cartoon-phone.png",
@@ -79,10 +79,10 @@ angular.module("angular", [])
                 /*** PASO #6: CONCLUSION ***/ 
                 
                 goal6: "Finalmente elige un piso que no le desagrada demasiado pero está demasiado cansada de tener que apuntar pisos en un papel.",
-                touch6: "ordenador",
-                feel6: "2",
+                touch6: "móvil",
+                feel6: "3",
                 con6: "Aunque ha encontrado piso no le ha gustado la forma de elegirlo y sabe que habrá mejores, pero le ocupa demasiado tiempo.",
-                ima6: "cartoon-happy.png",
+                ima6: "cartoon-thinking.png",
                 
 			},
 			{	
