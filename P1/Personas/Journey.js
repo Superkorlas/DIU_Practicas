@@ -35,7 +35,7 @@ angular.module("angular", [])
                 
 				Id: 0,
 				Name: "Elena",
-                Photo: "woman.png",
+                Photo: "elena.jpeg",
     
                 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "Le han destinado a trabajar en una escuela de Málaga",
@@ -48,40 +48,40 @@ angular.module("angular", [])
                 goal2: "Buscar en internet un estudio individual para alojarse.",
                 touch2: "Internet",
                 feel2: "2",
-                con2: "Todos los estudios individuales están demasiado caros.",
+                con2: "Todos los estudios individuales son demasiado caros.",
                 ima2: "cartoon-PCangry.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
                 goal3: "Decide que debe compartir piso con alguien para poder permitirse el alojamiento sin gastar demasiado.",
                 touch3: "móvil (para buscar app)",
-                feel3: "2",
-                con3: "Ve que hay demasiadas apps para ello.",
-                ima3: "cartoon-phone.png",
+                feel3: "3",
+                con3: "Descarga una aplicación que le recomendaron hace un tiempo.",
+                ima3: "cartoon-speaking.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Sus amigas le recomiendan una app.",
+                goal4: "Ve que hay muchas ofertas disponibles y varias bastante interesantes, por lo que decide comparar las que más le interesan.",
                 touch4: "ordenador",
-                feel4: "4",
-                con4: "Hay demasiadas ofertas de gente y le preocupa si se llevará bien con su compañera de piso",
-                ima4: "cartoon-speaking.png",
+                feel4: "1",
+                con4: "Le resulta muy incómodo comparar ofertas ya que no hay ninguna forma de añadir a favoritos para guardar aquellas que más le gustan.",
+                ima4: "cartoon-phone.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "La app le permite aplicar varios filtros que le permiten buscar algo mejor.",
+                goal5: "No le queda más remedio que apuntar en un papel los nombres de las ofertas que más le interesan para luego poder compararlas.",
                 touch5: "móvil (app)",
-                feel5: "3",
-                con5: "La app no permite filtrar con respecto a los inquilinos y eso le preocupa.",
+                feel5: "2",
+                con5: "Tiene que ir buscando las ofertas que tiene apuntadas en el papel continuamente para poder comparar..",
                 ima5: "cartoon-deciding.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Finalmente encuentra un piso que le gusta y dado que aparece el nombre de la inquilina, ha podido buscarlo en las redes sociales y parece una persona agradable.",
+                goal6: "Finalmente elige un piso que no le desagrada demasiado pero está demasiado cansada de tener que apuntar pisos en un papel.",
                 touch6: "ordenador",
-                feel6: "4",
-                con6: "Le preocupa un poco no caerle bien a la inquilina cuando se conozcan.",
+                feel6: "2",
+                con6: "Aunque ha encontrado piso no le ha gustado la forma de elegirlo y sabe que habrá mejores, pero le ocupa demasiado tiempo.",
                 ima6: "cartoon-happy.png",
                 
 			},
@@ -93,54 +93,54 @@ angular.module("angular", [])
                 
 				Id: 1,
 				Name: "Teresa",
-                Photo: "woman.png",
+                Photo: "teresa.jpg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
-                feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+                goal1: "Su hermana menor se ha divorciado y le ha pedido ayuda para alquilar piso.",
+                touch1: "teléfono",
+                feel1: "3",
+                con1: "Su hermana debe compartir piso porque no puede permitirse un alquiler para ella sola.",
+                ima1: "cartoon-phoning.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
+                goal2: "Decide ayudarle ya que su hermana no tiene ordenador y buscar en inmobiliaria es demasiado caro.",
+                touch2: "ordenador",
                 feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                con2: "Ayuda a su hermana con el ordenador buscando en la web que le ha recomendado su hija.",
+                ima2: "cartoon-PChappy.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
+                goal3: "Comienza a usar la web buscando piso para su hermana.",
+                touch3: "ordenador (llamada)",
                 feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
+                con3: "Hay muchísimas ofertas para mirar.",
+                ima3: "cartoon-looking.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
-                feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                goal4: "Intenta filtrar la búsqueda por la edad, pero solo se permite filtrar por el sexo del compañero, no por la edad.",
+                touch4: "ordenador (webapp)",
+                feel4: "1",
+                con4: "Tiene que buscar entre todas las ofertas alguna compañera de su rango de edad sin poder filtrar resultados por edad. Y hay muchísimas ofertas de gente más joven (estudiantes).",
+                ima4: "cartoon-PCangry.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
-                feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                goal5: "Dedica un día entero para buscarle piso a su hermana.",
+                touch5: "ordenador (webapp)",
+                feel5: "2",
+                con5: "Hay pocas ofertas de gente de su edad y que se adapten a su capacidad económica.",
+                ima5: "cartoon-PCcrying.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                goal6: "Consigue encontrar un piso con una compañera que está en el rango de edad de su hermana y se adapta a sus posibilidades económicas.",
+                touch6: "ordenador",
+                feel6: "3",
+                con6: "Tendrá que ver si son personas compatibles para vivir juntas.",
+                ima6: "cartoon-thinking.png",
                 
                 
                 
