@@ -38,4 +38,8 @@ https://github.com/Superkorlas/DIU_Practicas/blob/master/P1/Personas/Teresa_jour
 
 ## REVISIÓN DE USABILIDAD
 
-@TODO
+A continuación se muestra un enlace a la revisión de usabilidad realizada:
+
+https://github.com/Superkorlas/DIU_Practicas/blob/master/P1/Revisi%C3%B3n%20de%20usabilidad%20-%20Valoraci%C3%B3n%20Usabilidad.pdf
+
+En conclusión, es un sitio francamente bonito en cuanto a interfaz se refiera, muy minimalista y con los distintos elementos bien marcados y con buen contraste (fondo blanco y letras  negras). Está muy bien organizado y pese a ser muy simple, cuenta con la mayoría de las funciones que los usuarios pueden necesitar.
