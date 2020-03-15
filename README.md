@@ -29,12 +29,18 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Se han comparado Habitoom, Badi y Roomster. Finalmente se ha elegido Badi por ser la más completa. A continuación se muestra un enlace hacia el análisis de competencia:
+
+https://github.com/Superkorlas/DIU_Practicas/blob/master/P1/README.md
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Se han elegido 2 personas:
+
+Teresa: https://github.com/Superkorlas/DIU_Practicas/blob/master/P1/Personas/Persona_Teresa.pdf
+
+Elena: https://github.com/Superkorlas/DIU_Practicas/blob/master/P1/Personas/Persona_Elena.pdf
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
