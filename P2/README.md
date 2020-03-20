@@ -4,3 +4,5 @@ Malla receptora de información
 Sitemap & Task flow 
 Labelling 
 Wireframe & User flow 
+
+## Malla receptora
