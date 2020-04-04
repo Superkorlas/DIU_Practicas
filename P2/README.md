@@ -19,8 +19,9 @@ El siguiente enlace contiene el sitemap en imagen, para poder ver la estructura 
 https://github.com/Superkorlas/DIU_Practicas/blob/master/P2/Sitemap.png
 
 
+## Labelling
+
 ## Bocetos interfaz
 
 Se han estructurado la estructura que tendrán las diferentes interfaces de usuario en la app. Se pueden ver en el siguiente enlace:
 https://github.com/Superkorlas/DIU_Practicas/tree/master/P2/Dise%C3%B1osUI
- (aún no están todos)
