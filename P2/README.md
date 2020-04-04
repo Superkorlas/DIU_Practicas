@@ -21,6 +21,9 @@ https://github.com/Superkorlas/DIU_Practicas/blob/master/P2/Sitemap.png
 
 ## Labelling
 
+Para entender correctamente las palabras clave de la aplicación se ha creado la siguiente tabla, la cual incluye algunos iconos para que se entienda su significado.
+https://github.com/Superkorlas/DIU_Practicas/blob/master/P2/Labelling.pdf
+
 ## Bocetos interfaz
 
 Se han estructurado la estructura que tendrán las diferentes interfaces de usuario en la app. Se pueden ver en el siguiente enlace:
