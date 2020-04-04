@@ -14,6 +14,11 @@ Se ha decidido utilizar la matriz de tareas ya que permite ver qué tareas puede
 
 ## Sitemap
 
+El siguiente enlace contiene el sitemap en imagen, para poder ver la estructura que seguirá la aplicación.
+
+https://github.com/Superkorlas/DIU_Practicas/blob/master/P2/Sitemap.png
+
+
 ## Bocetos interfaz
 
 Se han estructurado la estructura que tendrán las diferentes interfaces de usuario en la app. Se pueden ver en el siguiente enlace:
