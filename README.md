@@ -61,25 +61,19 @@ https://github.com/Superkorlas/DIU_Practicas/blob/master/P1/RevisionUsabilidad.p
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid & Tasks
 ----
+Tras analizar la aplicación Badi, se ha creado una tabla que proporciona información sobre los elementos más destacados, aquellos a corregir e ideas nuevas para nuestra aplicación.  
+Nuestra aplicación Bladi, no solo permitirá alquilar y ofertar pisos, también permitirá a los usuarios llevar el control de la economía del piso. De esta forma, se consigue que los usuarios continúen usando la aplicación tras el alquiler del piso.
+
+También se ha realizado una matriz de tareas que define las tareas que puede realizar el usuario y la frecuencia de uso esperada para cada una.
+
+El siguiente enlace contiene la tabla de feedback y la matriz de tareas.
+
+https://github.com/Superkorlas/DIU_Practicas/blob/master/P2/FeedbackCaptureGrid-TaskMatrix.pdf
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
+![Método UX](img/Sitemap.png) 2.b Sitemap 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
