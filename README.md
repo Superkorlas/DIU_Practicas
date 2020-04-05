@@ -76,25 +76,28 @@ https://github.com/Superkorlas/DIU_Practicas/blob/master/P2/FeedbackCaptureGrid-
 ![Método UX](img/Sitemap.png) 2.b Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+El sitemap permite ver la navegación entre las diferentes pantallas de la aplicación. El siguiente enlace muestra el sitemap realizado:
+
+https://github.com/Superkorlas/DIU_Practicas/blob/master/P2/Sitemap.png
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
+La tabla del siguiente enlace muestra los diferentes términos propios de la aplicación y su signifaco. También se ha incluido un icono en aquellos términos que se ha considerado necesario. Hay que tener en cuenta que algunos términos solo aparecerán en forma de icono, como el de favoritos.
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+https://github.com/Superkorlas/DIU_Practicas/blob/master/P2/Sitemap.png
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Se han realizado bocetos de las diferentes pantallas que tendrá la aplicación. Se ha utilizado la siguiente plataforma para realizarlas:
+https://marvelapp.com/signin?next=/project/4800422/design/67437038
 
+A continuación se muestran los diferentes bocetos realizados:
+
+https://github.com/Superkorlas/DIU_Practicas/tree/master/P2/Dise%C3%B1osUI
 
 ## Paso 3. Make (Prototyping) 
 
