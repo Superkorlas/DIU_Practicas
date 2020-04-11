@@ -61,46 +61,43 @@ https://github.com/Superkorlas/DIU_Practicas/blob/master/P1/RevisionUsabilidad.p
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid & Tasks
 ----
+Tras analizar la aplicación Badi, se ha creado una tabla que proporciona información sobre los elementos más destacados, aquellos a corregir e ideas nuevas para nuestra aplicación.  
+Nuestra aplicación Bladi, no solo permitirá alquilar y ofertar pisos, también permitirá a los usuarios llevar el control de la economía del piso. De esta forma, se consigue que los usuarios continúen usando la aplicación tras el alquiler del piso.
+
+También se ha realizado una matriz de tareas que define las tareas que puede realizar el usuario y la frecuencia de uso esperada para cada una.
+
+El siguiente enlace contiene la tabla de feedback y la matriz de tareas.
+
+https://github.com/Superkorlas/DIU_Practicas/blob/master/P2/FeedbackCaptureGrid-TaskMatrix.pdf
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
+![Método UX](img/Sitemap.png) 2.b Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+El sitemap permite ver la navegación entre las diferentes pantallas de la aplicación. El siguiente enlace muestra el sitemap realizado:
+
+https://github.com/Superkorlas/DIU_Practicas/blob/master/P2/Sitemap.png
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
+La tabla del siguiente enlace muestra los diferentes términos propios de la aplicación y su signifaco. También se ha incluido un icono en aquellos términos que se ha considerado necesario. Hay que tener en cuenta que algunos términos solo aparecerán en forma de icono, como el de favoritos.
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+https://github.com/Superkorlas/DIU_Practicas/blob/master/P2/Sitemap.png
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Se han realizado bocetos de las diferentes pantallas que tendrá la aplicación. Se ha utilizado la siguiente plataforma para realizarlas:
+https://marvelapp.com/signin?next=/project/4800422/design/67437038
 
+A continuación se muestran los diferentes bocetos realizados:
+
+https://github.com/Superkorlas/DIU_Practicas/tree/master/P2/Dise%C3%B1osUI
 
 ## Paso 3. Mi equipo UX-Case Study 
 
