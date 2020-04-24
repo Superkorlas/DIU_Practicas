@@ -106,18 +106,35 @@ https://github.com/Superkorlas/DIU_Practicas/tree/master/P2/Dise%C3%B1osUI
 -----
 
 
->>> Analizar lo aprendido de la experiencia MuseApp 
+En el análisis de MuseMap se ha comprendido lo importante que es realizar investigaciones sobre el comportamiendo de las personas. De esta forma se podrá orientar el diseño del programa que se diseñe para que se adapte al uso que se le dará. También podrá cumplir mejor las necesidades de los usuarios. E incluso puede descubrirse antes de empezar que realmente la aplicación (o web) que se iba a desarrollar no cubre ninguna necesidad y no tendría un gran uso.
+
+Es importante analizar la competencia, para poder aprovechar sus fortalezas, no coger sus debilidades y poder ofrecer un valor añadido que nos permita ser mejores. Aunque lo más importante de todo, es tener en cuenta desde el primer momento al usuario, haciendo entrevistas y pruebas desde las primeras fases para detectar errores y posibles mejoras desde el principio, antes incluso de haber comenzado con la implementación.
+
+Para ver un análisis más completo: https://github.com/Superkorlas/DIU_Practicas/blob/master/P3/readme.md
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
 
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Puesto que el equipo aún no cuenta con un diseñador gráfico lo suficientemente experimentado, se ha decidido posponer la creación del logo. Esta decisión es debido a que el logotipo es lo primero que verá el usuario (en market de aplicaciones por ejemplo) y deberá ser lo suficientemente bueno para que al verlo, el usuario decida darle la oportunidad a la aplicación.
+
+Se utilizarán los mismos colores elegidos para la aplicación (ver siguiente apartado) y algún símbolo que indique que la aplicación es referente a casas/pisos para captar la atención de los posibles interesados.
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+El diseño se basará principalmente en Material Design por ser el más usado en apps Android. De esta forma los usuarios estarán más familiarizados y les resultará más conocida desde el principio.
+
+Se usará la fuente Roboto: 
+
+![font](P3/img/font.png)
+
+Y se han seleccionado los siguientes colores principales:
+
+![font](P3/img/palette.png)
+
+Se puede encontrar una descripción más detallada en el siguiente link: https://github.com/Superkorlas/DIU_Practicas/blob/master/P3/readme.md#propuesta-de-elementos-de-dise%C3%B1o-o-patrones-a-usar
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
