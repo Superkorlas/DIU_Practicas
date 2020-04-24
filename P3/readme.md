@@ -1,6 +1,4 @@
-# DIU - Practica 3, entregables
-
-## Análisis de MuseMap   
+# Análisis de MuseMap   
 Enlace a caso de estudio:
 https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b
 
@@ -24,7 +22,7 @@ En mi opinión, los métodos más eficaces para realizar un buen diseño que gus
 
 
 
-## Propuesta de elementos de diseño o patrones a usar 
+# Propuesta de elementos de diseño o patrones a usar 
 
 Dado que la principal plataforma para la que se desarrollará es móvil, y concretamente Android, se ha decidido emplear los estándares que la plataforma propone para el diseño.
 Por lo tanto nuestro diseño estará inspirado en Material Design. (enlace patrón)
@@ -46,8 +44,8 @@ Los colores principales elegidos son <#344955> y <#F9AA33>:
 
 En cuanto a la colocación de los elementos también se seguirá el estándar. Por ejemplo para volver a la pantalla anterior, se usará un botón (con icono de flecha orientada hacia la izquierda) en la esquina superior izquierda. Habrá una barra de navegación como la que utilizan la mayoría de las aplicaciones que permitirán ir rápidamente a las pantallas más importantes y/o más usadas.
 
-## Historia en Video del UX Case Study
+# Historia en Video del UX Case Study
 
 
-## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+# Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
