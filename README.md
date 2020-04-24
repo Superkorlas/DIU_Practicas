@@ -123,9 +123,6 @@ Se utilizarán los mismos colores elegidos para la aplicación (ver siguiente ap
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-El diseño se basará principalmente en Material Design por ser el más usado en apps Android. De esta forma los usuarios estarán más familiarizados y les resultará más conocida desde el principio.
-
 Se usará la fuente Roboto: 
 
 ![font](P3/img/font.png)
