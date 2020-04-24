@@ -46,6 +46,57 @@ En cuanto a la colocación de los elementos también se seguirá el estándar. P
 
 # Historia en Video del UX Case Study
 
+ Para el video se ha utilizado el siguiente guión como esquema:
+ ```
+ Vimos como mucha gente debido a los altos precios de los alquileres debían compartir 
+ piso con personas que no conocían. Por ello decidimos crear una aplicación para buscar
+ compañeros de piso.
+
+Al realizar un análisis de competencia se observó como una vez encontrabas piso podías 
+desinstalar la aplicación ya que ya no la necesitabas más. Por ello, hemos decidido ofrecer
+un valor añadido para cuando ya tienes el piso.
+
+Bladi ha decidido añadir la funcionalidad de “Pagos”. Cada miembro del piso podrá pagar los 
+gastos comunes a los demás a través de la aplicación, consiguiendo que los usuarios continúen
+usando la aplicación tras haber encontrado piso. De forma similar se les podrá pagar al casero
+a través de la aplicación.
+
+Para el diseño  tras el análisis de competencia, se plantearon dos escenarios de uso en los que
+se detectaron carencias de la aplicación que se consideró la mejor y se analizó la usabilidad en 
+profundidad.
+
+La segunda etapa consistió en realizar el FeedbackCaptureGrip&Task, el sitemap, el labelling y los
+wireframes. Decidimos realizar en primer lugar los bocetos ya que de ellos se podía obtener de forma
+implícita el sitemap y el labelling.
+Los bocetos, se realizaron por el orden como la usarían los usuarios, es decir, todos los pasos para
+alquilar un piso, para realizar un pago o pedir un cobro, etc.
+
+El Feedback Capture Grip nos permitió ver qué podíamos aprovechar de Badi, que debíamos mejorar y qué
+valores añadidos podíamos incluir. De los distintos valores añadidos, decidimos incorporar las 
+funcionalidades de economía colaborativa. 
+
+Posteriormente se realizaron los bocetos lo-fi. Estos no definen la apariencia final en cuanto a colores, 
+fuentes, etc sino que permiten ver cómo estructurar las  interfaces. Nos habría gustado poder realizar 
+varias entrevistas con usuarios para recibir un feedback temprano.
+
+A través de estos bocetos se elaboró el sitemap, que permite ver la navegabilidad en nuestra aplicación.
+
+Al tener lo bocetos realizados, se obtuvieron de ellos las diferentes etiquetas usadas, así como sus iconos 
+en caso de tenerlos.
+
+Con todo esto listo era el momento de comenzar a tomar decisiones acerca de qué diseño se utilizará aunque 
+echamos en falta realizar entrevistas para mostrar los bocetos a los usuarios y recibir feedback temprano.
+
+Al centrarnos en el desarrollo para Android decidimos adoptar sus estándares como usar el patrón de diseño 
+Material Design por ser el más usado, de forma que a los usuarios les resulte familiar la aplicación desde 
+el primer momento.
+
+Elegimos las fuentes a utilizar, los tamaños y los colores que tendrá la aplicación. Se decidió utilizar 
+la fuente Roboto por ser simple, muy fácil de leer y estar asociada a Android. Y como colores se  eligieron
+dos que contrastan bastante entre ellos de forma se pueden remarcar elementos mediante el uso del color.
+```
+
+PD: el guión ha sido solo una ayuda, y no siempre corresponde 100% con el contenido del video.
 
 # Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
