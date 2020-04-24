@@ -125,12 +125,9 @@ Se utilizarán los mismos colores elegidos para la aplicación (ver siguiente ap
 
 Se ha decidido usar el patrón de diseño Material Design (https://material.io/) por ser el más usado en aplicaciones móviles, especialmente en Android.
 
-Se usará la fuente Roboto: 
+Se usará la fuente Roboto y los siguientes colores principales (además de blanco y negro):
 
 ![font](P3/img/font.png)
-
-Y se han seleccionado los siguientes colores principales:
-
 ![font](P3/img/palette.png)
 
 Se puede encontrar una descripción más detallada en el siguiente link: https://github.com/Superkorlas/DIU_Practicas/blob/master/P3/readme.md#propuesta-de-elementos-de-dise%C3%B1o-o-patrones-a-usar
