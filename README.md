@@ -123,6 +123,8 @@ Se utilizarán los mismos colores elegidos para la aplicación (ver siguiente ap
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
+Se ha decidido usar el patrón de diseño Material Design (https://material.io/) por ser el más usado en aplicaciones móviles, especialmente en Android.
+
 Se usará la fuente Roboto: 
 
 ![font](P3/img/font.png)
