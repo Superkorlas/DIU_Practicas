@@ -32,8 +32,7 @@ Para la fuente, se utilizará Roboto pues al ser la fuente más asociada a Mater
 
 ![font](img/font.png)
 
-Para aprovechar mejor el espacio, cuando se quiera remarcar un texto como un título o una pequeña descripción, en lugar de ampliar el tamaño de letra, lo que hará será ampliar el grosor de las letras, es decir, utilizar el **negrita**. 
-(indicar que tamaños de letra se usarán, máximo 3)
+Para aprovechar mejor el espacio, cuando se quiera remarcar un texto como un título o una pequeña descripción, en lugar de ampliar el tamaño de letra, lo que hará será ampliar el grosor de las letras, es decir, utilizar el **negrita**. Y se restringirán los tamaños de letra a un máximo de 3, para que quede un diseño lo más sencillo y simple posible.
 
 En cuanto al color, se utilizará una paleta de colores sencilla ya que la aplicación no requiere de muchos colores. Se elegirá un color primario y un color secundario. El color primario y secundario deberán diferenciarse de forma fácil, pues el secundario se utilizará para llamar la atención del usuario sobre ciertos botones o partes importantes de la interfaz. A su vez, cada uno de ellos tendrán un color “adicional” asignado, que será usado para dar sombras al estilo de la imagen que se muestra a continuación.
 
