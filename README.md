@@ -86,7 +86,7 @@ https://github.com/Superkorlas/DIU_Practicas/blob/master/P2/Sitemap.png
 
 La tabla del siguiente enlace muestra los diferentes términos propios de la aplicación y su signifaco. También se ha incluido un icono en aquellos términos que se ha considerado necesario. Hay que tener en cuenta que algunos términos solo aparecerán en forma de icono, como el de favoritos.
 
-https://github.com/Superkorlas/DIU_Practicas/blob/master/P2/Sitemap.png
+https://github.com/Superkorlas/DIU_Practicas/blob/master/P2/Labelling.pdf
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
