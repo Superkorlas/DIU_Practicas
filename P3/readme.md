@@ -26,6 +26,26 @@ En mi opinión, los métodos más eficaces para realizar un buen diseño que gus
 
 ## Propuesta de elementos de diseño o patrones a usar 
 
+Dado que la principal plataforma para la que se desarrollará es móvil, y concretamente Android, se ha decidido emplear los estándares que la plataforma propone para el diseño.
+Por lo tanto nuestro diseño estará inspirado en Material Design. (enlace patrón)
+Para la fuente, se utilizará Roboto pues al ser la fuente más asociada a Material Design, los usuarios de Android estarán acostumbrados a usarla.
+
+![font](img/font.png)
+
+Para aprovechar mejor el espacio, cuando se quiera remarcar un texto como un título o una pequeña descripción, en lugar de ampliar el tamaño de letra, lo que hará será ampliar el grosor de las letras, es decir, utilizar el **negrita**. 
+(indicar que tamaños de letra se usarán, máximo 3)
+
+En cuanto al color, se utilizará una paleta de colores sencilla ya que la aplicación no requiere de muchos colores. Se elegirá un color primario y un color secundario. El color primario y secundario deberán diferenciarse de forma fácil, pues el secundario se utilizará para llamar la atención del usuario sobre ciertos botones o partes importantes de la interfaz. A su vez, cada uno de ellos tendrán un color “adicional” asignado, que será usado para dar sombras al estilo de la imagen que se muestra a continuación.
+
+![shadow](img/shadow_color.png)
+
+En la imagen se aprecia como ambos colores aunque parecidos se diferencian, dando la impresión de ser una sombra.
+A estos colores se añadirá el blanco y el negro para fondos y colores de fuente.
+Los colores principales elegidos son <#344955> y <#F9AA33>:
+
+![palette](img/palette.png)
+
+En cuanto a la colocación de los elementos también se seguirá el estándar. Por ejemplo para volver a la pantalla anterior, se usará un botón (con icono de flecha orientada hacia la izquierda) en la esquina superior izquierda. Habrá una barra de navegación como la que utilizan la mayoría de las aplicaciones que permitirán ir rápidamente a las pantallas más importantes y/o más usadas.
 
 ## Historia en Video del UX Case Study
 
