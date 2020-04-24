@@ -135,7 +135,7 @@ Se puede encontrar una descripción más detallada en el siguiente link: https:/
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+El video describe el proceso que se ha seguido para realizar el diseño de Bladi.
 
 
 ## Paso 4. Evaluación 
