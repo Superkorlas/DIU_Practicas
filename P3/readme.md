@@ -98,5 +98,14 @@ dos que contrastan bastante entre ellos de forma se pueden remarcar elementos me
 
 PD: el guión ha sido solo una ayuda, y no siempre corresponde 100% con el contenido del video.
 
+Utilice el siguiente enlace para acceder al vídeo:
+
+https://youtu.be/ZDd_9VtkbrE
+
 # Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
+Esta práctica nos permite estar muy cerca de realizar un diseño final de la aplicación. La realización del vídeo, pese a ser simple a primera vista ha conllevado realizar muchas tomas. En un principio se intentó grabar todo seguido de una sola vez, pero resultó demasiado complicado al no estar nada acostumbrado a grabar vídeos.
+
+Para elegir el patrón de diseño se investigaron varios estilos hasta dar con Material Design, por lo que consistión más en investigación hasta dar con el elegido.
+
+Durante el análisis de MuseMap se vió como es de vital importancia analizar a los usuarios primero para ver si realmente es útil la aplicación que estés ideando. También es vital recibir feedback temprano de los usuarios para poder realizar cambios cuanto antes para obtener un resultado que guste a los usuarios.
