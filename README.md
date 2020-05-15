@@ -137,6 +137,8 @@ Se puede encontrar una descripción más detallada en el siguiente link: https:/
 
 El video describe el proceso que se ha seguido para realizar el diseño de Bladi.
 
+https://youtu.be/ZDd_9VtkbrE
+
 
 ## Paso 4. Evaluación 
 
