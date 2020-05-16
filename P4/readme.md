@@ -27,13 +27,44 @@ En el siguiente enlace se encuentra el análisis: https://github.com/Superkorlas
 ## Caso 2 - DIU2.pserrano
 >>> Link a repositorio del grupo analizado: https://github.com/pserrano778/DIU20
 
-Descripcion y hoja de valoración.  
+En el siguiente enlace se encuentra el análisis: 
 
+1. Puntos fuertes:
+
+* 
+
+* 
+
+* 
+
+2. Puntos débiles:
+
+* 
+
+* 
+
+* 
 
 ## Caso 3 - DIU3.Mayko
 >>> Link a repositorio del grupo analizado: https://github.com/NaroaAlonso/DIU20
 
-Descripcion y hoja de valoración.   
+En el siguiente enlace se encuentra el análisis: 
+
+1. Puntos fuertes:
+
+* 
+
+* 
+
+* 
+
+2. Puntos débiles:
+
+* 
+
+* 
+
+* 
 
 ## User Testing
 
