@@ -31,19 +31,21 @@ En el siguiente enlace se encuentra el análisis: https://github.com/Superkorlas
 
 1. Puntos fuertes:
 
-* 
+* Presenta una descripción del diseño que se utilizará muy completa.
 
-* 
+* El sitemap está muy bien organizado y en la mayoría de casos respeta la regla de los "3clicks" (con 3 clicks se debe llegar a
+cualquier parte de la aplicación.
 
-* 
+* Los diferentes README están descritos de forma muy completa.
 
 2. Puntos débiles:
 
-* 
+* El informe de usabilidad presenta muchas puntuaciones sin argumentar.
 
-* 
+* Se han realizado pocos bocetos.
 
-* 
+* En las descripciones del README de las personas se indica que van a necesitar usar la aplicación específica por lo que se
+entiende que no son totalmente genéricas.
 
 ## Caso 3 - DIU3.Mayko
 >>> Link a repositorio del grupo analizado: https://github.com/NaroaAlonso/DIU20
