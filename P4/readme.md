@@ -27,7 +27,7 @@ En el siguiente enlace se encuentra el análisis: https://github.com/Superkorlas
 ## Caso 2 - DIU2.pserrano
 >>> Link a repositorio del grupo analizado: https://github.com/pserrano778/DIU20
 
-En el siguiente enlace se encuentra el análisis: 
+En el siguiente enlace se encuentra el análisis: https://github.com/Superkorlas/DIU_Practicas/blob/master/P4/DIU2.pserrano_review.pdf
 
 1. Puntos fuertes:
 
