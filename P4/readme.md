@@ -10,19 +10,19 @@ En el siguiente enlace se encuentra el análisis: https://github.com/Superkorlas
 
 1. Puntos fuertes:
 
-* 
+* Unas interfaces muy completas.
 
-* 
+* Un sitemap muy correcto que permite entender fácilmente la estructura que tiene la aplicación.
 
-* 
+* Los términos definidos en el labelling permiten entenderse muy bien por cualquier usuario.
 
 2. Puntos débiles:
 
-* 
+* Falta de un análisis de competencia para ver qué mejorarán con respecto a sus competidores o ver cuál es su competencia más fuerte.
 
-* 
+* No se detecta ningún fallo de diseño en la web analizada (en ninguno de los journey map).
 
-* 
+* No existen (o no se describen) las novedades que aportará la aplicación que se está diseñando.
 
 ## Caso 2 - DIU2.pserrano
 >>> Link a repositorio del grupo analizado: https://github.com/pserrano778/DIU20
