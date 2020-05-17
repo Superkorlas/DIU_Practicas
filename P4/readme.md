@@ -70,12 +70,12 @@ En el siguiente enlace se encuentra el análisis: https://github.com/Superkorlas
 
 ## User Testing
 
-	Describe la experiencia 1
+* Caso 1: Puede resultar complicado llegar hasta el apartado de "Datos personales" por haber muchos pasos intermedios.
 
-	Describe la experiencia 2
+* Caso 2: al tener el color más llamativo en los elementos menos usados, el usuario pierde la atención con facilidad de aquello
+que realmente quiere hacer.
 
-	Describe la experiencia 3
-
+* Caso 3: al usuario le resulta muy molesto que sea tan grande el botón de "ayuda/asistencia" en todas las páginas dándole demasiadas veces por error.
 
 ## Conclusiones
 
