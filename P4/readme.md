@@ -50,23 +50,23 @@ entiende que no son totalmente genéricas.
 ## Caso 3 - DIU3.Mayko
 >>> Link a repositorio del grupo analizado: https://github.com/NaroaAlonso/DIU20
 
-En el siguiente enlace se encuentra el análisis: 
+En el siguiente enlace se encuentra el análisis: https://github.com/Superkorlas/DIU_Practicas/blob/master/P4/DIU3.Mayko_review.pdf
 
 1. Puntos fuertes:
 
-* 
+* El método usado para el User-task-matrix ha permitido elegir las próximas tareas a realizar de forma eficiente.
 
-* 
+* Las personas creadas son totalmente válidas para ser usadas en cualquier otra aplicación.
 
-* 
+* Los bocetos tienen gran nivel de detalle.
 
 2. Puntos débiles:
 
-* 
+* En el primer mapa de usuario no se describe de forma clara ningún fallo de diseño de la app analizada.
 
-* 
+* No se describe el producto que se va a desarrollar de forma detallada.
 
-* 
+* En ningún momento se indica la paleta de colores elegida para la app.
 
 ## User Testing
 
