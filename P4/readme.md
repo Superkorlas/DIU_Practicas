@@ -78,3 +78,6 @@ En el siguiente enlace se encuentra el análisis: https://github.com/Superkorlas
 
 
 ## Conclusiones
+
+Finalmente, vemos como el grupo DIU3.Mayko es el que ha conseguido la puntuación más alta con 88/100, seguido de cerca por el grupo DIU2.pserrano con 87/100. Y por último el grupo DIU1.QWERTY con 64/100.
+La mayor diferencia entre los 2 primeros grupos es que tenían todos los README completamente rellenos y bien explicados. El grupo DIU1.QWERTY destaca su práctica 3 por ser de un nivel considerablemente más alto que las otras.
