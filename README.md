@@ -215,8 +215,12 @@ En el siguiente enlace se encuentra el análisis: https://github.com/Superkorlas
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+* Caso 1: Puede resultar complicado llegar hasta el apartado de "Datos personales" por haber muchos pasos intermedios.
 
+* Caso 2: al tener el color más llamativo en los elementos menos usados, el usuario pierde la atención con facilidad de aquello
+que realmente quiere hacer.
+
+* Caso 3: al usuario le resulta muy molesto que sea tan grande el botón de "ayuda/asistencia" en todas las páginas dándole demasiadas veces por error.
 
 ![Método UX](img/Survey.png). 4.c Ranking 
 ----
@@ -224,8 +228,3 @@ En el siguiente enlace se encuentra el análisis: https://github.com/Superkorlas
 Finalmente, vemos como el grupo DIU3.Mayko es el que ha conseguido la puntuación más alta con 88/100, seguido de cerca por el grupo DIU2.pserrano con 87/100. Y por último el grupo DIU1.QWERTY con 64/100.
 
 La mayor diferencia entre los 2 primeros grupos es que tenían todos los README completamente rellenos y bien explicados. El grupo DIU1.QWERTY destaca su práctica 3 por ser de un nivel considerablemente más alto que las otras.
-
-
-
-
-
